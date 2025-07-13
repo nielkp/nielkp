@@ -1,10 +1,16 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
- <div>
-   <a href="https://github.com/nielkp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="center">
+  💻 Desenvolvedor e Especialista em Redes <br />
+  🎓 Formado em Ciência da Computação <br />
+  🌐 Foco em infraestrutura, monitoramento e desenvolvimento web <br />
+</p>
 
+ <div align="center">
+  <a href="https://github.com/nielkp">
+    <img src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=6&theme=tokyonight" width="42%" />
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
