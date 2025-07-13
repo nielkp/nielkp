@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
 <p align="center">
-  💻 Desenvolvedor e Especialista em Redes <br />
   🎓 Formado em Ciência da Computação <br />
+  💻 Desenvolvedor e Especialista em Redes <br />
   🌐 Foco em infraestrutura, monitoramento e desenvolvimento web <br />
 </p>
 
