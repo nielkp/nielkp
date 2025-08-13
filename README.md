@@ -16,10 +16,9 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
----
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caslujpg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
