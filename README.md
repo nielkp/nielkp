@@ -3,15 +3,9 @@
 <p align="center">
   🎓 Formado em Ciência da Computação <br />
   💻 Desenvolvedor e Especialista em Redes <br />
-  🌐 Foco em infraestrutura, monitoramento e desenvolvimento web <br />
+  🌐 Foco em Infraestrutura e Desenvolvimento Web <br />
 </p>
 
- <div>
-  <a href="https://github.com/nielkp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-    
 <div align="center"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -36,3 +30,8 @@
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/nielkp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
