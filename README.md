@@ -5,7 +5,6 @@
   💻 Desenvolvedor e Especialista em Redes<br />
   🤖 Sempre explorando novas tecnologias e desafios<br />
   🌐 Apaixonado por Infraestrutura e Desenvolvimento Web!
-  
 </p>
 
 <div align="center">
@@ -16,9 +15,29 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula" alt="GitHub Profile Trophy" />
+  <table>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=1" alt="Trophy 1" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=2" alt="Trophy 2" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=3" alt="Trophy 3" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=4" alt="Trophy 4" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=5" alt="Trophy 5" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=6" alt="Trophy 6" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=7" alt="Trophy 7" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=8" alt="Trophy 8" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=9" alt="Trophy 9" /></td>
+    </tr>
+  </table>
 </div>
+
+<br />
 
 ## 📫 Meus contatos
 
