@@ -18,23 +18,7 @@
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=1" alt="Trophy 1" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=2" alt="Trophy 2" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=3" alt="Trophy 3" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=4" alt="Trophy 4" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=5" alt="Trophy 5" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=6" alt="Trophy 6" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=7" alt="Trophy 7" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=8" alt="Trophy 8" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&rank=9" alt="Trophy 9" /></td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&row=2&column=3" alt="GitHub Profile Trophy" />
 </div>
 
 <br />
