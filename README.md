@@ -6,12 +6,12 @@
   🌐 Foco em infraestrutura, monitoramento e desenvolvimento web <br />
 </p>
 
- <div align="center">
+ <div>
   <a href="https://github.com/nielkp">
-    <img src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=6&theme=tokyonight" width="42%" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+    
 <div align="center"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
