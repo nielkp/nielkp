@@ -3,11 +3,10 @@
 <p align="center">
   🎓 Formado em Ciência da Computação<br />
   💻 Desenvolvedor e Especialista em Redes<br />
-  🌐 Apaixonado por Infraestrutura e Desenvolvimento Web<br />
-  🤖 Sempre explorando novas tecnologias e desafios!
+  🤖 Sempre explorando novas tecnologias e desafios<br />
+  🌐 Apaixonado por Infraestrutura e Desenvolvimento Web!
+  
 </p>
-
----
 
 <div align="center">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -17,13 +16,9 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula" alt="GitHub Profile Trophy" />
 </div>
-
----
 
 ## 📫 Meus contatos
 
