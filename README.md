@@ -1,9 +1,10 @@
-# 👋 Bem-vindo(a) ao meu perfil!
+# 👋 Olá, eu sou o Daniel! Bem-vindo(a) ao meu perfil! 🚀
 
 <p align="center">
   🎓 Formado em Ciência da Computação<br />
   💻 Desenvolvedor e Especialista em Redes<br />
-  🌐 Foco em Infraestrutura e Desenvolvimento Web
+  🌐 Apaixonado por Infraestrutura e Desenvolvimento Web<br />
+  🤖 Sempre explorando novas tecnologias e desafios!
 </p>
 
 ---
@@ -16,9 +17,10 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+---
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula" alt="GitHub Profile Trophy" />
 </div>
 
 ---
