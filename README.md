@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Daniel! Bem-vindo(a) ao meu universo tech! 🚀
+# 👋 Bem-vindo(a) ao meu perfil!
 
 <p align="center">
   🎓 Formado em Ciência da Computação<br />
-  💻 Desenvolvedor & Especialista em Redes<br />
-  🤖 Sempre explorando novas tecnologias e desafios!<br />
-  🌐 Apaixonado por Infraestrutura e Desenvolvimento Web
-  
+  💻 Desenvolvedor e Especialista em Redes<br />
+  🌐 Foco em Infraestrutura e Desenvolvimento Web
 </p>
+
+---
 
 <div align="center">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -16,13 +16,15 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens" />
 </div>
 
+---
 
-## 🚀 Vamos nos conectar!
+## 📫 Meus contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-knaip/" target="_blank" rel="noopener noreferrer">
@@ -35,19 +37,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
----
-
-### ⚡ Curiosidade Tech
-
-> "Código é poesia digital." 💻✨
-
----
-
-### 🎯 O que me move?
-
-- Criar soluções que impactam pessoas e negócios.
-- Aprender sempre, porque tecnologia nunca para.
-- Compartilhar conhecimento e crescer junto com a comunidade.
-
----
