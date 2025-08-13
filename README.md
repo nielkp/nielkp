@@ -7,7 +7,7 @@
   🌐 Apaixonado por Infraestrutura e Desenvolvimento Web!
 </p>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">🛠️ Skills</h3>
 
 <div align="center">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -16,6 +16,22 @@
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
+
+<br />
+
+<h3 align="center">🚀 Projetos</h3>
+
+<p align="center">
+  <strong>Lachapa Burguer</strong><br />
+  <a href="https://github.com/nielkp/lachapaburguer-api" target="_blank" rel="noopener noreferrer">API</a> | 
+  <a href="https://github.com/nielkp/lachapaburguer-interface" target="_blank" rel="noopener noreferrer">Interface</a>
+</p>
+
+<p align="center">
+  <strong>Knaip Bills</strong><br />
+  <a href="https://github.com/nielkp/knaip-bills-api" target="_blank" rel="noopener noreferrer">API</a> | 
+  <a href="https://github.com/nielkp/knaip-bills-interface" target="_blank" rel="noopener noreferrer">Interface</a>
+</p>
 
 <br />
 
