@@ -7,6 +7,8 @@
   🌐 Apaixonado por Infraestrutura e Desenvolvimento Web!
 </p>
 
+<h3 align="center">Skills</h3>
+
 <div align="center">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -23,7 +25,7 @@
 
 <br />
 
-## 📫 Meus contatos
+<h3 align="center">📫 Meus contatos</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-knaip/" target="_blank" rel="noopener noreferrer">
