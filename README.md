@@ -17,6 +17,8 @@
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://github.com/nielkp" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielkp&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
