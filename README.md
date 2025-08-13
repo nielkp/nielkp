@@ -19,6 +19,8 @@
 
 <br />
 
+<h3 align="center">🏆 Troféus</h3>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&row=2&column=3" alt="GitHub Profile Trophy" />
 </div>
