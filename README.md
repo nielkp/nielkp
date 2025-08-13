@@ -19,22 +19,6 @@
 
 <br />
 
-<h3 align="center">🚀 Projetos</h3>
-
-<p align="center">
-  <strong>Lachapa Burguer</strong><br />
-  <a href="https://github.com/nielkp/lachapaburguer-api" target="_blank" rel="noopener noreferrer">API</a> | 
-  <a href="https://github.com/nielkp/lachapaburguer-interface" target="_blank" rel="noopener noreferrer">Interface</a>
-</p>
-
-<p align="center">
-  <strong>Knaip Bills</strong><br />
-  <a href="https://github.com/nielkp/knaip-bills-api" target="_blank" rel="noopener noreferrer">API</a> | 
-  <a href="https://github.com/nielkp/knaip-bills-interface" target="_blank" rel="noopener noreferrer">Interface</a>
-</p>
-
-<br />
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&row=2&column=3" alt="GitHub Profile Trophy" />
 </div>
