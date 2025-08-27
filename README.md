@@ -27,17 +27,6 @@
 
 <br />
 
-<h3 align="center">🏆 Troféus</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielkp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nielkp&theme=dracula&row=2&column=3" alt="GitHub Profile Trophy" />
-</div>
-
-<br />
-
-<br />
-
 <h3 align="center">📫 Meus contatos</h3>
 
 <div align="center">
